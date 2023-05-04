@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetReduce", "TweetReduce\TweetReduce.csproj", "{1CD82283-8837-459A-A065-A64B8581A259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetGcpApi", "TweetGcpApi\TweetGcpApi.csproj", "{1E875885-3913-4331-84E6-25A2326E0D0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD82283-8837-459A-A065-A64B8581A259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD82283-8837-459A-A065-A64B8581A259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD82283-8837-459A-A065-A64B8581A259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD82283-8837-459A-A065-A64B8581A259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E875885-3913-4331-84E6-25A2326E0D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E875885-3913-4331-84E6-25A2326E0D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E875885-3913-4331-84E6-25A2326E0D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E875885-3913-4331-84E6-25A2326E0D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
