@@ -13,7 +13,7 @@
     * path - string - disk path of content file
 * GET /entity
     * Query parameters:
-    * path - string - disk path of content file
+      * path - string - disk path of content file
 * GET /entitysentiment
     * Query parameters:
-    * path - string - disk path of content file
+      * path - string - disk path of content file
